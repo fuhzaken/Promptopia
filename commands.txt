@@ -1,0 +1,5 @@
+1. npm install bcrypt mongodb mongoose next-auth
+    // to hash passwords
+    // for our database
+    // to help manage the database 
+    // 
