@@ -1,0 +1,14 @@
+[] implement search
+    - search by prompt content
+    - search by tag
+    - search by username
+    // implement the code in Feed.jsx
+[] implement click on tag
+    - populate the search bar with the tag when tag is clicked
+    // implement the code in Feed.jsx
+[] implement view other profiles
+    - can see this profile's prompts
+    // create a new dynamic folder [id] and page.jsx
+    // this page.jsx file will be similar to the old page.jsx file
+    // will fetch posts from a different user
+    // will reuse the existing profile component
